@@ -1,0 +1,2 @@
+The program "main.js" prints out the string form of a group of patients, to convert it to a json object use JSON.parse( TEXT );
+I use unix pipelines to capture the output. There are probably(?) other ways on windows.
